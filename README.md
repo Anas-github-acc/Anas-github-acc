@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a learner.<br>Enthusiastic software developer with a creative mindset.<br>Loves the thrill of bringing innovative ideas to life through coding.
+👨‍💻I'm currently a learner.<br>🚀 Currently working on my skills in Next.js and REST APIs.<br>🤖 Future Goals: I'll build my own simulated worlds where AI experience and learn to grow like humans to navigate them.
 
 
 ## 🌐 Socials:
