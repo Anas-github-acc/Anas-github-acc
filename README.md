@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻I'm currently a learner.<br>🚀 Currently working on my skills in Next.js and REST APIs.<br>🤖 Future Goals: I'll build my own simulated worlds where AI experience and learn to grow like humans.
+👨‍💻I'm currently a learner.<br>🚀 Currently working on my skills in Node.js and REST APIs.<br>🤖 Future Goals: I'll build my own simulated worlds where AI experience and learn to grow like humans.
 
 
 ## 🌐 Socials:
